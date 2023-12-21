@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    appearance: none;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: black;
+}
